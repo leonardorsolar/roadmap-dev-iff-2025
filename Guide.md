@@ -1,23 +1,33 @@
 **5 exemplos por nível** (júnior, pleno e sênior), sempre em ordem de complexidade crescente dentro de cada nível.
 
+### Ferramentas vibecoding:
+
+-   APP:
+    -   https://bolt.new/
+    -   https://lovable.dev/
+-   Mobile:
+    -   https://rork.com/
+
 ## 👶 Júnior – fundamentos e CRUDs
 
 ### 1. **To-do List** → CRUD básico (tarefas).
 
-**vibecoding**:
-APP:https://bolt.new/ https://lovable.dev/
-Mobile: https://rork.com/
+### vibecoding:
 
-Create Your Own Checklist App with Lovable in Minutes -> https://www.youtube.com/watch?v=GIf82HgM-FI
+-   Tech Node (React):
 
-Bolt.New v2 + Claude Code = Magic | Build Production Ready Apps In Minutes (Bolt Cloud)
--> https://www.youtube.com/watch?v=BIpWnOoVapo
+    -   Title: Create Your Own Checklist App with Lovable in Minutes:
+    -   URL: https://www.youtube.com/watch?v=GIf82HgM-FI
+
+-   Tech Node (React):
+    -   Title: Build Production Ready Apps In Minutes (Bolt Cloud)
+    -   URL: https://www.youtube.com/watch?v=BIpWnOoVapo
 
 **Português**:
 
 **Inglês**:
 
-**Programação**:
+### Programação:
 
 **Português**:
 
