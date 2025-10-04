@@ -5,6 +5,19 @@
 ### 1. **To-do List** → CRUD básico (tarefas).
 
 **vibecoding**:
+APP:https://bolt.new/ https://lovable.dev/
+Mobile: https://rork.com/
+
+Create Your Own Checklist App with Lovable in Minutes -> https://www.youtube.com/watch?v=GIf82HgM-FI
+
+Bolt.New v2 + Claude Code = Magic | Build Production Ready Apps In Minutes (Bolt Cloud)
+-> https://www.youtube.com/watch?v=BIpWnOoVapo
+
+**Português**:
+
+**Inglês**:
+
+**Programação**:
 
 **Português**:
 
@@ -14,7 +27,7 @@
     -   Title: Building a Todo List App with MERN Stack | Todo Application using MongoDB + Express + React + Node
     -   URL: https://www.youtube.com/watch?v=BqRWK57dwqo
 -   Tech Python (FastAPI, SQL Model, Nextjs)->
-    -   Title:Introduction to Database - Fullstack Todo App Series (FastAPI, SQL Model, Nextjs)
+    -   Title: Introduction to Database - Fullstack Todo App Series (FastAPI, SQL Model, Nextjs)
     -   URL: https://www.youtube.com/watch?v=ESv7TEzETzQ&list=PLxYHe2aLO4DCzc0QYT3ysH9BApFwmkKYT
 
 2. **Blog simples** → posts, categorias, comentários.
@@ -34,10 +47,10 @@
 **Inglês**:
 
 -   Tech Python (FastAPI & React Project)
-    -   Title:How to Create a FastAPI & React Project - Python Backend + React Frontend
+    -   Title: How to Create a FastAPI & React Project - Python Backend + React Frontend
     -   URL: https://www.youtube.com/watch?v=aSdVU9-SxH4
 -   Tech Java (Spring Boot e React)
-    -   Title:How to Create a FastAPI & React Project - Python Backend + React Frontend
+    -   Title: How to Create a FastAPI & React Project - Python Backend + React Frontend
     -   URL: https://www.youtube.com/playlist?list=PLWXw8Gu52TRKouXUo3Abu33_ODPXZTz64
 
 4. **Agenda/Calendário** → eventos, lembretes, CRUD de datas.
@@ -50,7 +63,7 @@
 
 -   Tech Node (Node, React & MySQL)
 
-    -   Title:CRUD Full Stack com Node, React & MySQL
+    -   Title: CRUD Full Stack com Node, React & MySQL
     -   URL: https://www.youtube.com/watch?v=voXTVTW73E8
 
 -   Tech Java (Spring Boot e React)
@@ -66,14 +79,14 @@
 
 -   Tech Node (Next.js)
 
-    -   Title:Autenticação JWT com back-end próprio
+    -   Title: Autenticação JWT com back-end próprio
     -   URL: https://www.youtube.com/watch?v=voXTVTW73E8
 
 **Inglês**:
 
 -   Tech Node (Next.js)
 
-    -   Title:Autenticação JWT com back-end próprio
+    -   Title: Autenticação JWT com back-end próprio
     -   URL: https://www.youtube.com/watch?v=voXTVTW73E8
 
 -   Tech Java (Spring Boot e Next)
