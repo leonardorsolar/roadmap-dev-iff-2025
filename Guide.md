@@ -3,10 +3,83 @@
 ## 👶 Júnior – fundamentos e CRUDs
 
 1. **To-do List** → CRUD básico (tarefas).
+
+### vibecoding:
+
+### Português:
+
+### Inglês:
+
+-   Tech Node (MongoDB + Express + React + Node):
+    -   Title: Building a Todo List App with MERN Stack | Todo Application using MongoDB + Express + React + Node
+    -   URL: https://www.youtube.com/watch?v=BqRWK57dwqo
+-   Tech Python (FastAPI, SQL Model, Nextjs)->
+    -   Title:Introduction to Database - Fullstack Todo App Series (FastAPI, SQL Model, Nextjs)
+    -   URL: https://www.youtube.com/watch?v=ESv7TEzETzQ&list=PLxYHe2aLO4DCzc0QYT3ysH9BApFwmkKYT
+
 2. **Blog simples** → posts, categorias, comentários.
-3. **Sistema de autenticação** → cadastro, login, recuperação de senha.
-4. **Catálogo de produtos** → listagem, busca, filtros.
-5. **Agenda/Calendário** → eventos, lembretes, CRUD de datas.
+
+### vibecoding:
+
+### Português:
+
+### Inglês:
+
+3. **Catálogo de produtos** → listagem, busca, filtros.
+
+### vibecoding:
+
+### Português:
+
+### Inglês:
+
+-   Tech Python (FastAPI & React Project)
+    -   Title:How to Create a FastAPI & React Project - Python Backend + React Frontend
+    -   URL: https://www.youtube.com/watch?v=aSdVU9-SxH4
+-   Tech Java (Spring Boot e React)
+    -   Title:How to Create a FastAPI & React Project - Python Backend + React Frontend
+    -   URL: https://www.youtube.com/playlist?list=PLWXw8Gu52TRKouXUo3Abu33_ODPXZTz64
+
+4. **Agenda/Calendário** → eventos, lembretes, CRUD de datas.
+
+### vibecoding:
+
+### Português:
+
+### Inglês:
+
+-   Tech Node (Node, React & MySQL)
+
+    -   Title:CRUD Full Stack com Node, React & MySQL
+    -   URL: https://www.youtube.com/watch?v=voXTVTW73E8
+
+-   Tech Java (Spring Boot e React)
+
+    -   Title: Full Stack ReactJS with Spring Boot
+    -   URL: https://www.youtube.com/watch?v=-LUA-LHXobE&t=4s
+
+5. **Sistema de autenticação** → cadastro, login, recuperação de senha.
+
+### vibecoding:
+
+### Português:
+
+-   Tech Node (Next.js)
+
+    -   Title:Autenticação JWT com back-end próprio
+    -   URL: https://www.youtube.com/watch?v=voXTVTW73E8
+
+### Inglês:
+
+-   Tech Node (Next.js)
+
+    -   Title:Autenticação JWT com back-end próprio
+    -   URL: https://www.youtube.com/watch?v=voXTVTW73E8
+
+-   Tech Java (Spring Boot e Next)
+
+    -   COMO CRIAR UM SISTEMA DO ZERO PRA INICIAR QUALQUER NEGÓCIO
+    -   URL: https://www.youtube.com/watch?v=HssDrmOZXJ4&list=PL6-iiksdrDYz_Fh_WZxmPORTiQtO0QYMz
 
 **Dominar:**
 
@@ -16,11 +89,27 @@
 -   **Postman/Insomnia/swagger** → testar APIs.
 -   **CI/CD inicial** → GitHub Actions simples.
 
+### Aulas base:
+
+API:
+
+-   Python Api: FastAPI Tutorial: Build a REST API in 15 Minutes-> https://www.youtube.com/watch?v=iWS9ogMPOI0&t=716s
+
+AUTENTICAÇÃO:
+
+-   Estratégias de autenticação entre front-end e back-end com JWT (cookies storage)-> https://www.youtube.com/watch?v=YcH2kxqK3nc
+-   WT (JSON Web Token - Autenticação e Segurança) -> https://www.youtube.com/watch?v=Gyq-yeot8qM
+
 ---
 
 ## 🧑‍💻 Pleno – integrações e escalabilidade inicial
 
 1. **E-commerce** → carrinho, checkout, integração com pagamento.
+
+### Vibecoding:
+
+React Native-> aplicativo de entrega de refeições.-> https://youtu.be/ER1SF0qwMTE?si=LFQS-v6JvaBEOfFn -> https://rork.com/?ref=erictech
+
 2. **API RESTful** → endpoints públicos e privados, versionamento.
 3. **Dashboard analítico** → gráficos, relatórios, filtros dinâmicos.
 4. **Sistema de permissões (RBAC)** → papéis, grupos e acessos diferentes.
