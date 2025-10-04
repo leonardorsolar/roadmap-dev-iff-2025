@@ -2,13 +2,13 @@
 
 ## 👶 Júnior – fundamentos e CRUDs
 
-1. **To-do List** → CRUD básico (tarefas).
+### 1. **To-do List** → CRUD básico (tarefas).
 
-### vibecoding:
+**vibecoding**:
 
-### Português:
+**Português**:
 
-### Inglês:
+**Inglês**:
 
 -   Tech Node (MongoDB + Express + React + Node):
     -   Title: Building a Todo List App with MERN Stack | Todo Application using MongoDB + Express + React + Node
@@ -19,19 +19,19 @@
 
 2. **Blog simples** → posts, categorias, comentários.
 
-### vibecoding:
+**vibecoding**:
 
-### Português:
+**Português**:
 
-### Inglês:
+**Inglês**:
 
 3. **Catálogo de produtos** → listagem, busca, filtros.
 
-### vibecoding:
+**vibecoding**:
 
-### Português:
+**Português**:
 
-### Inglês:
+**Inglês**:
 
 -   Tech Python (FastAPI & React Project)
     -   Title:How to Create a FastAPI & React Project - Python Backend + React Frontend
@@ -42,11 +42,11 @@
 
 4. **Agenda/Calendário** → eventos, lembretes, CRUD de datas.
 
-### vibecoding:
+**vibecoding**:
 
-### Português:
+**Português**:
 
-### Inglês:
+**Inglês**:
 
 -   Tech Node (Node, React & MySQL)
 
@@ -60,16 +60,16 @@
 
 5. **Sistema de autenticação** → cadastro, login, recuperação de senha.
 
-### vibecoding:
+**vibecoding**:
 
-### Português:
+**Português**:
 
 -   Tech Node (Next.js)
 
     -   Title:Autenticação JWT com back-end próprio
     -   URL: https://www.youtube.com/watch?v=voXTVTW73E8
 
-### Inglês:
+**Inglês**:
 
 -   Tech Node (Next.js)
 
